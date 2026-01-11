@@ -1,0 +1,12 @@
+Links
+=====
+
+Module 0: Welcome to the Course
+-------------------------------
+- Deno: https://deno.com/
+- LangSmith: https://eu.smith.langchain.com/
+- Course GitHub repository: https://github.com/langchain-ai/lca-langgraph-essentials
+- LangGraph documentation: https://docs.langchain.com/oss/javascript/langchain/overview
+- LangSmith Studio documentation: https://docs.langchain.com/oss/python/langchain/studio
+- LangChain Forum: https://forum.langchain.com/
+- Building LangGraph: Designing an agent runtime from first principles: https://blog.langchain.com/building-langgraph/
